@@ -1,5 +1,5 @@
 # django_blog
-👩‍💻 programming exercises &lt;\>
+👩‍💻 
 
 
 # Create database and user  psql :
