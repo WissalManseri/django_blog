@@ -10,12 +10,17 @@
       \l
 
       - Create database 
-      create database filedb;
+      create database blog;
 
       - Create user
-      CREATE USER filetech WITH ENCRYPTED PASSWORD '123456';
+      CREATE USER blogadmin WITH ENCRYPTED PASSWORD 'passwrd';
+      ALTER ROLE blogadmin SET default_transaction_isolation = 'read committed';
 
       - asign privileges 
-      GRANT ALL PRIVILEGES ON DATABASE filedb to filetech;
+      GRANT ALL PRIVILEGES ON DATABASE blog TO blogadmin;
+
+      -Sortir du schell
+      \q
+
 ![psql](https://github.com/WissalManseri/django_blog/assets/135167709/108b2e48-afe6-473a-b1d4-255a846bece4)
 
