@@ -24,3 +24,4 @@
 
 ![psql](https://github.com/WissalManseri/django_blog/assets/135167709/108b2e48-afe6-473a-b1d4-255a846bece4)
 
+
