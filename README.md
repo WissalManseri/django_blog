@@ -1,7 +1,6 @@
 # django_blog
 👩‍💻 🚧 Work In Progress
 
-
 # Create database and user  psql :
 
       Commands
