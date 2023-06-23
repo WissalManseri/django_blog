@@ -2,7 +2,6 @@
 👩‍💻 🚧 Work In Progress
 
 
-
 # Create database and user  psql :
 
       Commands
