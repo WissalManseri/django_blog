@@ -7,6 +7,7 @@
 
       - list database
       \l
+      
 
       - Create database 
       create database blog;
